@@ -1,0 +1,8 @@
+1. WAP to print n natural numbers
+2. WAP to print the sum of digits
+3. WAP to check whether a number is prime or not in the given range
+4. WAP to print all the numbers which are prime in the given range
+5. WAP to calculate the factorial of a given number
+6. WAP to check whether an input integer is perfect number or not
+7. WAP to find the first n numbers of a Fibonacci sequence.
+8. WAP to check whether an integer number is a Armstrong number or not!.
