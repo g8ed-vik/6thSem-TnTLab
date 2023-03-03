@@ -1,0 +1,12 @@
+Read the files using 'readlide_returnList' function given in 'read_file.py' code.
+
+
+1. Print the name of the student one by one.
+
+2. Sort all the name of the student in two student list.
+
+3. Count how many times 'PRIYANSHU' and 'HIMANSHU' present in the first student list.
+
+4. Merge the two student list.
+
+5. Remove the duplicate valuse present in student list.
